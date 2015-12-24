@@ -1,0 +1,14 @@
+*.cof
+*.obj
+*.elf
+*.conf
+*.o
+*.o.d
+*.bin
+*.lst
+*.map
+*.eep
+*.srec
+.DS_STORE
+._*
+*.lss
